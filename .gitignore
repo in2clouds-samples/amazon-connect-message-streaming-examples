@@ -10,3 +10,9 @@ cdk.out
 
 .DS_Store
 packaged.yml
+
+# Setup file
+setup
+
+# Script file
+runme.sh
